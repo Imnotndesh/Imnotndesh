@@ -4,7 +4,7 @@
 <p align="left"><a href="https://twitter.com/Improgramndesh" alt="Improgram" target="blank"><img src="https://img.shields.io/twitter/follow/Improgramndesh?logo=twitter&style=for-the-badge" alt="Improgramndesh"/></a></p>
 <a rel="me" href="https://mastodon.social/@amnotndesh">Mastodon</a>
 <h2 align="left">Who is Ndegwaa?</h2>
-- I am a developer based in <a href="https://maps.app.goo.gl/Av2fPazVuNSGpLvP9">Meru</a>.
+- I am a developer based in <a href="https://maps.app.goo.gl/Av2fPazVuNSGpLvP9">Meru</a>.<br>
 - I like to create solutions to some of my daily problems using code. <br>
 - I am passionate about Linux (I do not use arch btw)🫴🏾<br>
 
